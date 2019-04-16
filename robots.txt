@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:/favicon.ico
+Disallow: /favicon.ico
 
-Sitemap:https://645695411.github.io/sitemap.xml
+Sitemap: https://645695411.github.io/sitemap.xml
