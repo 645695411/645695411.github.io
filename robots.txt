@@ -1,2 +1,4 @@
 User-agent: *
-Disallow:/favicon-20190326043922412.ico
+Disallow:/favicon.ico
+
+Sitemap:https://645695411.github.io/sitemap.xml
